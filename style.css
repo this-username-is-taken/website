@@ -1,0 +1,33 @@
+body {
+  font-family: "Palatino Linotype", "Book Antiqua", "Palatino", "serif";
+}
+
+header {
+  text-align: center;
+}
+
+header .name {
+  font-weight: bold;
+  padding: 50px;
+}
+
+footer {
+  position: fixed;
+  bottom: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+.nav {
+  width: 40% !important;
+  margin: 0 auto;
+}
+
+.profile {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.profile-description {
+  font-size: 16px;
+}
