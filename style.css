@@ -12,10 +12,12 @@ header .name {
 }
 
 footer {
-  position: fixed;
-  bottom: 20px;
-  width: 100%;
   text-align: center;
+  padding: 20px;
+}
+
+footer img {
+  width: 30px;
 }
 
 .nav {
@@ -24,10 +26,14 @@ footer {
 }
 
 .profile {
-  padding: 40px 15px;
+  font-size: 14px;
   text-align: center;
+
+  width: 300px;
+  margin: 0 auto;
+  padding: 40px 5px;
 }
 
-.profile-description {
+.profile strong {
   font-size: 16px;
 }
