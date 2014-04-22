@@ -1,4 +1,4 @@
 Website
 =======
 
-My personal website at vincentwen.com
+My personal website at http://www.vincentwen.com
