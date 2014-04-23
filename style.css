@@ -1,4 +1,5 @@
 body {
+  display: none;
   font-family: "Palatino Linotype", "Book Antiqua", "Palatino", "serif";
 }
 
@@ -21,7 +22,7 @@ footer img {
 }
 
 .nav {
-  width: 40% !important;
+  width: 30% !important;
   margin: 0 auto;
 }
 
@@ -36,4 +37,9 @@ footer img {
 
 .profile strong {
   font-size: 16px;
+}
+
+.profile a {
+  color: black;
+  font-style: italic;
 }
