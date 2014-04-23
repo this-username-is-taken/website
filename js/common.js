@@ -1,3 +1,7 @@
+$(function() {
+  loadTemplate();
+});
+
 function loadTemplate() {
   var d1 = new $.Deferred();
   var d2 = new $.Deferred();
